@@ -68,7 +68,7 @@ With the following fields:
 | Parameter     | Type    | Required? | Description                       |
 |---------------|---------|-----------|-----------------------------------|
 | `student_id`  | string  | required  | Student ID                        |
-| `image`       | File    | required  | Photo to compare                  |
+| `image`       | File    | required  | Photo to compare. Limit of 5MB    |
 
 The response is a JSON object with `success` node.
 
