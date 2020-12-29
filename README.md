@@ -1,4 +1,4 @@
-# KaChick API
+# CityU API
 
 - [1. Overview](#1-overview)
 - [2. Authentication](#2-authentication)
