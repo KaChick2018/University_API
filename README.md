@@ -1,4 +1,4 @@
-# CityU API
+# University API
 
 - [1. Overview](#1-overview)
 - [2. Authentication](#2-authentication)
@@ -7,7 +7,7 @@
 
 ## 1. Overview
 
-KaChick's CityU API is a JSON based REST API. All requests are made to endpoints beginning: `http://cityu.kachick.com/api`.
+KaChick's University API is a JSON based REST API. All requests are made to endpoints beginning: `http://cityu.kachick.com/api`.
 
 Endpoint beginning might change later so its better to put it in a configuration file.
 
